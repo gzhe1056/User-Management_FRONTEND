@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+NOTE: "node_modules" is not part of this source code. To use this application, simply run the npm install command.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 NOTE: The node_modules folder is not included with the project. Using the project requires downloading the node_modules.
 ## Available Scripts
